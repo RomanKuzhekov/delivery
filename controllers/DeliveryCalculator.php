@@ -7,6 +7,7 @@
  */
 
 namespace controllers;
+
 use interfaces\DeliveryCalculatorInterface;
 
 /**
@@ -27,7 +28,6 @@ class DeliveryCalculator implements DeliveryCalculatorInterface
     protected $source;
     protected $target;
     protected $weight;
-
 
     public function run()
     {

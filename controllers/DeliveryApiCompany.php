@@ -11,7 +11,6 @@ namespace controllers;
 /**
  * Внешний сервис API компании, осуществляющей доставку
  *
- *
  * Class DeliveryApiCompany
  * @package controllers
  */

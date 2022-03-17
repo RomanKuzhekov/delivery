@@ -11,6 +11,12 @@ namespace controllers;
 
 use interfaces\DeliveryCalculatorInterface;
 
+/**
+ * Фабрика
+ *
+ * Class DeliveryCalculatorFactory
+ * @package controllers
+ */
 class DeliveryCalculatorFactory
 {
     private const MAP = [
