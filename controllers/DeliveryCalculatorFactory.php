@@ -9,8 +9,6 @@
 namespace controllers;
 
 
-use interfaces\DeliveryCalculatorInterface;
-
 /**
  * Фабрика
  *
