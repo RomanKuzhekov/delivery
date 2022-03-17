@@ -17,7 +17,7 @@ use interfaces\DeliveryCalculatorInterface;
  */
 class DeliveryCalculator implements DeliveryCalculatorInterface
 {
-    private $content = [];
+    private $content;
     private $errors = [];
     private $price;
     private $date;
