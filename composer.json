@@ -1,0 +1,16 @@
+{
+  "name": "vendor/php",
+  "description": "Test",
+  "authors": [
+    {
+      "name": "RomanKuzhekov",
+      "email": "profet@inbox.ru"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  }
+}
